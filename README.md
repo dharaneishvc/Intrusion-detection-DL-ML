@@ -1,6 +1,6 @@
 <img src="https://wantbranding.com/wp-content/uploads/2020/06/IBM-Banner-copy.jpg" >
 
-### Detection and Prevention of Advanced Persistent   Threat (APT) activities in heterogeneous networks using SIEM and Deep Learning 
+## Detection and Prevention of Advanced Persistent Threat (APT) activities in heterogeneous networks using Deep Learning
 
 --------------------------------
 
@@ -36,19 +36,17 @@ The output of the Correlation Engine can be categorized to rank the output netwo
 
 ### Abstract :
 
-- ####  Nithin Kumar S  |    _Lead Developer_
+- ####  Dharaneish V C  |   _Data Scientist_
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie sagittis mi sit amet condimentum. Duis dictum vitae nunc quis placerat. Mauris nec fermentum odio. Nam posuere metus tortor, et aliquet lorem maximus sit amet. Donec enim nibh, tempor sed elit a, aliquam fermentum leo. Proin sollicitudin urna est, quis interdum ante suscipit eu. Fusce non tincidunt neque. Duis vel maximus erat, eu tempus quam.
+Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
 
-- ####  Hari Varsha V   |    _Team Lead_
+- ####  Nithin Kumar S  |    _ML Engineer_
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie sagittis mi sit amet condimentum. Duis dictum vitae nunc quis placerat. Mauris nec fermentum odio. Nam posuere metus tortor, et aliquet lorem maximus sit amet. Donec enim nibh, tempor sed elit a, aliquam fermentum leo. Proin sollicitudin urna est, quis interdum ante suscipit eu. Fusce non tincidunt neque. Duis vel maximus erat, eu tempus quam.
+Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
 
-- ####  Dharaneish V C  |   _Data Analyst_
+- ####  Hari Varsha V   |    _Networks Expert_
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie sagittis mi sit amet condimentum. Duis dictum vitae nunc quis placerat. Mauris nec fermentum odio. Nam posuere metus tortor, et aliquet lorem maximus sit amet. Donec enim nibh, tempor sed elit a, aliquam fermentum leo. Proin sollicitudin urna est, quis interdum ante suscipit eu. Fusce non tincidunt neque. Duis vel maximus erat, eu tempus quam.
-
+Bachelor of Technology - Electrical and Computing Engineering, Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
 
 --------------------------------
 
