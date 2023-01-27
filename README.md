@@ -23,26 +23,25 @@ Security vulnerabilities and breaches caused by malicious software attacks are a
 
 ### Members :
 - ####      Dr. Senthil Kumar T – Associate Professor (CSE) 
-         _contact: https://www.amrita.edu/faculty/t-senthilkumar_
+_contact: https://www.amrita.edu/faculty/t-senthilkumar_
  
 - ####     Sulakshan Vajipayajula – STSM | IBM Master Inventor @ IBM Security
-         _contact: svajipay@in.ibm.com_
+ _contact: svajipay@in.ibm.com_
 
 - ####     Dharaneish V C | Student lead
-        _contact: dharaneishvc@gmail.com_
-        Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
+_contact: dharaneishvc@gmail.com_
+Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
          
 - ####    Nithin Kumar S 
-        _contact: itsnithinkumar34@gmail.com_
-        Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
+  _contact: itsnithinkumar34@gmail.com_
+Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
           
 - ####     Hari Varsha V
-        _contact: v.harivarsha@gmail.com_
-        Bachelor of Technology - Electrical and Computing Engineering, Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India   
+_contact: v.harivarsha@gmail.com_
+Bachelor of Technology - Electrical and Computing Engineering, Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India   
  
 *  Amrita Vishwa Vidyapeetham  |   _Coimbatore_
  
-
 --------------------------------
 
                                   Funded  by the IBM Shared University Research
