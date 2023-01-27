@@ -29,18 +29,20 @@ _contact: https://www.amrita.edu/faculty/t-senthilkumar_
  _contact: svajipay@in.ibm.com_
 
 - #### Dharaneish V C | Student lead
-_contact: dharaneishvc@gmail.com_
-Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
+_contact: dharaneishvc@gmail.com_ <br>
+Bachelor of Technology - Computer Science and Engineering (BTech CSE)
          
 - #### Nithin Kumar S 
- _contact: itsnithinkumar34@gmail.com_
- Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
+ _contact: itsnithinkumar34@gmail.com_ <br>
+ Bachelor of Technology - Computer Science and Engineering (BTech CSE)
           
 - #### Hari Varsha V
-_contact: v.harivarsha@gmail.com_
-Bachelor of Technology - Electrical and Computing Engineering, Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India   
+_contact: v.harivarsha@gmail.com_ <br>
+Bachelor of Technology - Electrical and Computing Engineering (BTech ELCE)
  
-*  Amrita Vishwa Vidyapeetham  |   _Coimbatore_
+ 
+
+*  Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
  
 --------------------------------
 
