@@ -42,7 +42,7 @@ Bachelor of Technology - Electrical and Computing Engineering (BTech ELCE)
  
  
 
-*  Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
+     Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
  
 --------------------------------
 
