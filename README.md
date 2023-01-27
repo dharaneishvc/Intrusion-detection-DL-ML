@@ -40,9 +40,7 @@ Bachelor of Technology - Computer Science and Engineering (BTech CSE)
 _contact: v.harivarsha@gmail.com_ <br>
 Bachelor of Technology - Electrical and Computing Engineering (BTech ELCE)
  
- 
-
-     Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
+Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
  
 --------------------------------
 
