@@ -29,7 +29,7 @@ Security vulnerabilities and breaches caused by malicious software attacks are a
          _contact: svajipay@in.ibm.com_
 
   *     Dharaneish V C | Student lead
-       _contact: dharaneishvc@gmail.com_
+        _contact: dharaneishvc@gmail.com_
         Bachelor of Technology - Computer Science and Engineering (BTech CSE), Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu">Amrita Vishwa Vidyapeetham</a>, India
          
   *     Nithin Kumar S 
