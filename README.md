@@ -13,15 +13,11 @@ will be updated soon.. Readme under updation
 will be updated soon..
 
 --------------------------------
+Download dataset from:
+https://www.unb.ca/cic/datasets/nsl.html
 
-
+--------------------------------
 ### Members :
-- #### Dr. Senthil Kumar T – Associate Professor (CSE) 
-_contact: https://www.amrita.edu/faculty/t-senthilkumar_
- 
-- #### Sulakshan Vajipayajula – STSM | IBM Master Inventor @ IBM Security
- _contact: svajipay@in.ibm.com_
-
 - #### Dharaneish V C | Student lead
 _contact: dharaneishvc@gmail.com_ <br>
 Bachelor of Technology - Computer Science and Engineering (BTech CSE)
@@ -34,6 +30,12 @@ Bachelor of Technology - Computer Science and Engineering (BTech CSE)
 _contact: v.harivarsha@gmail.com_ <br>
 Bachelor of Technology - Electrical and Computing Engineering (BTech ELCE)
  
+ - #### Dr. Senthil Kumar T – Associate Professor (CSE) 
+_contact: https://www.amrita.edu/faculty/t-senthilkumar_
+ 
+- #### Sulakshan Vajipayajula – STSM | IBM Master Inventor @ IBM Security
+ _contact: svajipay@in.ibm.com_
+
 Amrita School of Engineering, Coimbatore, <a href="https://amrita.edu"> Amrita Vishwa Vidyapeetham </a>, India
  
 --------------------------------
