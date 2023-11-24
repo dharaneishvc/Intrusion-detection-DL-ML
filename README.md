@@ -39,7 +39,9 @@ To replicate the experiments and results presented in the paper, run all the cel
 
 - `/NSLKDD_preprocess_8models.ipynb`: Contains the source code for preprocessing and all the 8 machine learning and deep learning models.
 - `/NSL-KDD`: Dataset in csv format;
-- `/Pictures`: High quality pictures of all the ones in our published paper.
+- `/images`: High quality pictures of all the ones in our published paper.
+- `/NSL-KDD Features.xlsx` - Description of each features in the NSL KDD dataset
+- `NSLKDD Dataset description.pdf` - NSL KDD Dataset description and detailed analysis
 
 ## How to Cite
 
