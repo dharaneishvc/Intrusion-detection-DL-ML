@@ -5,7 +5,7 @@
 This repository contains the code, dataset, images and materials for the research project titled "[Comparative Analysis of Deep Learning and Machine Learning Models for Network Intrusion Detection](https://ieeexplore.ieee.org/document/10308108/)," published in IEEE Xplore. This paper is presented in the [14th International Conference on Computing Communication and Networking Technologies (ICCCNT) 2023](https://ieeexplore.ieee.org/xpl/conhome/10306338/proceeding) held on August 2023 in IIT Delhi.
 
 ## Authors
-- **Dharaneish V C** [📧](mailto:dharaneish@gmail.com)[🔗](https://dharaneishvc.github.io/portfolio/)[👥](https://www.linkedin.com/in/dharaneishvc/)
+- **Dharaneish V C** [📧](mailto:dharaneishvc@gmail.com)[🔗](https://dharaneishvc.github.io/portfolio/)[👥](https://www.linkedin.com/in/dharaneishvc/)
 - **Nithin Kumar S** [📧](mailto:itsnithinkumar34@gmail.com)[👥](https://www.linkedin.com/in/nithinkumar34)
 - **Hari Varsha V** [📧](mailto:v.harvarsha@gmail.com)[👥](https://www.linkedin.com/in/harivarshav/)
 - **Senthil Kumar T (Professor, Guide)** [📧](mailto:t_senthilkumar@cb.amrita.edu)[🔗](https://www.amrita.edu/faculty/t-senthilkumar/)
